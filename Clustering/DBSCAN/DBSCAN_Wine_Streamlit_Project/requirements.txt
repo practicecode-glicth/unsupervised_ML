@@ -1,0 +1,14 @@
+# Streamlit = creates the web application
+streamlit
+
+# Pandas = reads and manages tabular data
+pandas
+
+# NumPy = numerical calculations
+numpy
+
+# Scikit-learn = dataset, scaling, DBSCAN and PCA
+scikit-learn
+
+# Matplotlib = charts and visualizations
+matplotlib

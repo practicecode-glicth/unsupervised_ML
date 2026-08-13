@@ -1,0 +1,14 @@
+# pip install -r requirements.txt
+
+# Streamlit creates the web interface.
+streamlit
+# Pandas loads and works with the CSV dataset.
+pandas
+# NumPy handles numerical arrays.
+numpy
+# Scikit-learn provides K-Means, scaling and clustering metrics.
+scikit-learn
+# Matplotlib creates the Elbow Method graph.
+matplotlib
+# Joblib saves and loads the trained model.
+joblib

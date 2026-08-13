@@ -1,0 +1,19 @@
+# pip install -r requirements.txt
+
+# Streamlit = creates the web application
+streamlit
+
+# Pandas = loads and works with CSV data
+pandas
+
+# NumPy = numerical operations
+numpy
+
+# Scikit-learn = StandardScaler, Agglomerative Clustering and Silhouette Score
+scikit-learn
+
+# SciPy = creates the hierarchical linkage matrix and dendrogram
+scipy
+
+# Matplotlib = displays the dendrogram and cluster charts
+matplotlib

@@ -1,0 +1,14 @@
+# Streamlit → web application
+streamlit
+
+# Pandas → CSV and table handling
+pandas
+
+# NumPy → numerical calculations
+numpy
+
+# Scikit-learn → StandardScaler and GaussianMixture
+scikit-learn
+
+# Matplotlib → charts and visualization
+matplotlib

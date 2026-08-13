@@ -1,0 +1,14 @@
+# Streamlit → web application
+streamlit
+
+# Pandas → data handling
+pandas
+
+# NumPy → numerical calculations
+numpy
+
+# Scikit-learn → dataset, DBSCAN, scaling and evaluation
+scikit-learn
+
+# Matplotlib → graphs
+matplotlib
